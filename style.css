@@ -174,3 +174,11 @@ footer p{
 .contact-logo{
     margin-bottom: 30px;
 }
+
+
+.fa-brands{
+    border: 2px solid;
+    padding: 10px;
+    margin: 0 5px;
+    border-radius: 25px;
+}
